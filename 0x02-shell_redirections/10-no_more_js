@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name \*.js -delete
+find . -name \*.swp -type f -exec rm -f {} +
