@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=ls $PATH | wc -l
+export PATH=ls | wc -l
