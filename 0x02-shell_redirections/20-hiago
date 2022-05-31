@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d h | tr -d H
+tr -d ‘hH’
