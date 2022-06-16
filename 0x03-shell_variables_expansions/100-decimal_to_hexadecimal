@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%X\n" ${DECIMAL}
+echo $('%X\n' $DECIMAL)
