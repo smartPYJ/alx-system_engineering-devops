@@ -1,3 +1,6 @@
 #!/bin/bash
 
+w=$(($water#$WATER))
+s=$(($stir#STIR
+bestchool=$(($w+$s))
 
